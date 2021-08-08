@@ -12,7 +12,7 @@
     "palette": "cyan",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "LSD",
             "url": "/store",
             "style": "link"
         },
