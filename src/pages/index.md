@@ -5,11 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image_opacity: 100
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: >
+      # Mit drugzzz.com&#xD;&#xA;sicher, schnell und einfach&#xD;&#xA;LSD
+      kaufen.
     actions:
       - title: See all items
         url: /store
