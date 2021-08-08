@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image_opacity: 100
-    content: >
-      # Mit drugzzz.com&#xD;&#xA;sicher, schnell und einfach&#xD;&#xA;LSD
-      kaufen.
+    content: |
+      # ![](images/text-content.png)
     actions:
       - title: See all items
         url: /store
